@@ -38,8 +38,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
-| [1068. Product Sales Analysis I] (https://leetcode.com/problems/product-sales-analysis-i/description/
-) | Easy | (../master/Basics/1068_Product_Sales_Analysis_I.sql) |
+| [1068. Product Sales Analysis I] (https://leetcode.com/problems/product-sales-analysis-i/description/) | Easy | (../master/Basics/1068_Product_Sales_Analysis_I.sql) |
 | [1069. Product Sales Analysis II] (https://leetcode.com/problems/product-sales-analysis-ii/description/
 ) | Easy | (../master/Basics/1069_Product_Sales_Analysis_II.sql) |
 | [577. Employee Bonus] (https://leetcode.com/problems/employee-bonus/description/
