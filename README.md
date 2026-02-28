@@ -1,6 +1,6 @@
 # LeetCode SQL Summary
 
-**_Last updated on Apr 4, 2025, covered 106 LeetCode SQL questions_**
+**_Last updated on Feb 28, 2026, covered 106 LeetCode SQL questions_**
 
 **WIP**
 - Update new SQL questions (Estimated Time: 31 August, 2025)
@@ -10,8 +10,6 @@
   3) Add Column "Topic" for [LeetCode SQL Questions by ID](#leetcode-sql-questions-by-id)
 
 ## Intro
-
-After finishing all 102 LeetCode SQL questions, I feel it could be good to summarize all questions by topics. 
 
 This note aims to **help people _learn and review SQL effeciently_**, espeically when trying to **have a quick catch up on a certain topic**, e.g. complex join, window function, recursive CTE and etc. If you would like to try questions by ID, you could jump to [LeetCode SQL Questions by ID](#leetcode-sql-questions-by-id) where I list all questions coverred in this repository.
 
