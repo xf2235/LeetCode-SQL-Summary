@@ -38,108 +38,57 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
-| [1068. Product Sales Analysis I] (https://leetcode.com/problems/product-sales-analysis-i/description/) | Easy | (../master/Basics/1068_Product_Sales_Analysis_I.sql) |
-| [1069. Product Sales Analysis II] (https://leetcode.com/problems/product-sales-analysis-ii/description/
-) | Easy | (../master/Basics/1069_Product_Sales_Analysis_II.sql) |
-| [577. Employee Bonus] (https://leetcode.com/problems/employee-bonus/description/
-) | Easy | (../master/Basics/577_Employee_Bonus.sql) |
-| [584. Find Customer Referee] (https://leetcode.com/problems/find-customer-referee/description/
-) | Easy | (../master/Basics/584_Find_Customer_Referee.sql) |
-| [511. Game Play Analysis I] (https://leetcode.com/problems/game-play-analysis-i/description/
-) | Easy | (../master/Basics/511_Game_Play_Analysis_I.sql) |
-| [512. Game Play Analysis II] (https://leetcode.com/problems/game-play-analysis-ii/description/
-) | Easy | (../master/Basics/512_Game_Play_Analysis_II.sql) |
-| [619. Biggest Single Number] (https://leetcode.com/problems/biggest-single-number/description/
-) | Easy | (../master/Basics/619_Biggest_Single_Number.sql) |
-| [586. Customer Placing the Largest Number of Orders] (https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/
-) | Easy | (../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) |
-| [1076. Project Employees II] (https://leetcode.com/problems/project-employees-ii/description/
-) | Easy | (../master/Basics/1076_Project_Employees_II.sql) |
-| [1075. Project Employees I] (https://leetcode.com/problems/project-employees-i/description/
-) | Easy | (../master/Basics/1075_Project_Employees_I.sql) |
-| [1141. User Activity for the Past 30 Days I] (https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/
-) | Easy | (../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) |
-| [196. Delete Duplicate Emails] (https://leetcode.com/problems/delete-duplicate-emails/description/
-) | Easy | (../master/Basics/196_Delete_Duplicate_Emails.sql) |
-| [1050. Actors and Directors Who Cooperated At Least Three Times] (https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/
-) | Easy | (../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
-| [1083. Sales Analysis II] (https://leetcode.com/problems/sales-analysis-ii/description/
-) | Easy | (../master/Basics/1083_Sales_Analysis_II.sql) |
-| [1084. Sales Analysis III] (https://leetcode.com/problems/sales-analysis-iii/description/
-) | Easy | (../master/Basics/1084_Sales_Analysis_III.sql) |
-| [610. Triangle Judgement] (https://leetcode.com/problems/triangle-judgement/description/
-) | Easy | (../master/Basics/610_Triangle_Judgement.sql) |
-| [181. Employees Earning More Than Their Managers] (https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
-) | Easy | (../master/Basics/181_Employees_Earning_More_Than_Their_Managers.sql) |
-| [1082. Sales Analysis I] (https://leetcode.com/problems/sales-analysis-i/description/
-) | Easy | (../master/Basics/1082_Sales_Analysis_I.sql) |
-| [613. Shortest Distance in a Line] (https://leetcode.com/problems/shortest-distance-in-a-line/description/
-) | Easy | (../master/Basics/613_Shortest_Distance_in_a_Line.sql) |
-| [603. Consecutive Available Seats] (https://leetcode.com/problems/consecutive-available-seats/description/
-) | Easy | (../master/Basics/603_Consecutive_Available_Seats.sql) |
-| [607. Sales Person] (https://leetcode.com/problems/sales-person/description/
-) | Easy | (../master/Basics/607_Sales_Person.sql) |
-| [597. Friend Requests I: Overall Acceptance Rate] (https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/
-) | Easy | (../master/Basics/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) |
-| [1173. Immediate Food Delivery I] (https://leetcode.com/problems/immediate-food-delivery-i/description/
-) | Easy | (../master/Basics/1173_Immediate_Food_Delivery_I.sql) |
-| [1142. User Activity for the Past 30 Days II] (https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/description/
-) | Easy | (../master/Basics/1142_User_Activity_for_the_Past_30_Days_II.sql) |
-| [1148. Article Views I] (https://leetcode.com/problems/article-views-i/description/
-) | Easy | (../master/Basics/1148_Article_Views_I.sql) |
-| [1211. Queries Quality and Percentage] (https://leetcode.com/problems/queries-quality-and-percentage/description/
-) | Easy | (../master/Basics/1211_Queries_Quality_and_Percentage.sql) |
-| [1251. Average Selling Price] (https://leetcode.com/problems/average-selling-price/description/
-) | Easy | (../master/Basics/1251_Average_Selling_Price.sql) |
-| [1294. Weather Type in Each Country] (https://leetcode.com/problems/weather-type-in-each-country/description/
-) | Easy | (../master/Basics/1294_Weather_Type_in_Each_Country.sql) |
-| [1241. Number of Comments per Post] (https://leetcode.com/problems/number-of-comments-per-post/description/
-) | Easy | (../master/Basics/1241_Number_of_Comments_per_Post.sql) |
-| [1280. Students and Examinations] (https://leetcode.com/problems/students-and-examinations/description/
-) | Easy | (../master/Basics/1280_Students_and_Examinations.sql) |
-| [1303. Find the Team Size] (https://leetcode.com/problems/find-the-team-size/description/
-) | Easy | (../master/Basics/1303_Find_the_Team_Size.sql) |
-| [1607. Sellers With No Sales] (https://leetcode.com/problems/sellers-with-no-sales/description/
-) | Easy | (../master/Basics/1607_Sellers_With_No_Sales.sql) |
-| [1990. Count the Number of Experiments] (https://leetcode.com/problems/count-the-number-of-experiments/description/
-) | Easy | (../master/Basics/1990_Count_the_Number_of_Experiments.sql) |
-| [1795. Rearrange Products Table] (https://leetcode.com/problems/rearrange-products-table/description/
-) | Easy | (../master/Basics/1795_Rearrange_Products_Table.sql) |
-| [1873. Calculate Special Bonus] (https://leetcode.com/problems/calculate-special-bonus/description/
-) | Easy | (../master/Basics/1873_Calculate_Special_Bonus.sql) |
-| [1179. Reformat Department Table] (https://leetcode.com/problems/reformat-department-table/description/
-) | Easy | (../master/Basics/1179_Reformat_Department_Table.sql) |
-| [1683. Invalid Tweets] (https://leetcode.com/problems/invalid-tweets/description/
-) | Easy | (../master/Basics/1683_Invalid_Tweets.sql) |
-| [1667. Fix Names in a Table] (https://leetcode.com/problems/fix-names-in-a-table/description/
-) | Easy | (../master/Basics/1667_Fix_Names_in_a_Table.sql) |
-| [1435. Create a Session Bar Chart] (https://leetcode.com/problems/create-a-session-bar-chart/description/
-) | Easy | (../master/Basics/1435_Create_a_Session_Bar_Chart.sql) |
-| [1890. The Latest Login in 2020] (https://leetcode.com/problems/the-latest-login-in-2020/description/
-) | Easy | (../master/Basics/1890_The_Latest_Login_in_2020.sql) |
-| [1623. All Valid Triplets That Can Represent a Country] (https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/description/
-) | Easy | (../master/Basics/1623_All_Valid_Triplets_That_Can_Represent_a_Country.sql) |
-| [1661. Average Time of Process per Machine] (https://leetcode.com/problems/average-time-of-process-per-machine/description/
-) | Easy | (../master/Basics/1661_Average_Time_of_Process_per_Machine.sql) |
-| [1729. Find Followers Count] (https://leetcode.com/problems/find-followers-count/description/
-) | Easy | (../master/Basics/1729_Find_Followers_Count.sql) |
-| [1633. Percentage of Users Attended a Contest] (https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/
-) | Easy | (../master/Basics/1633_Percentage_of_Users_Attended_a_Contest.sql) |
-| [1821. Find Customers With Positive Revenue this Year] (https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/
-) | Easy | (../master/Basics/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
-| [1853. Convert Date Format] (https://leetcode.com/problems/convert-date-format/description/
-) | Easy | (../master/Basics/1853_Convert_Date_Format.sql) |
-| [1731. The Number of Employees Which Report to Each Employee] (https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/
-) | Easy | (../master/Basics/1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) |
-| [1777. Product's Price for Each Store] (https://leetcode.com/problems/products-price-for-each-store/description/
-) | Easy | (../master/Basics/1777_Products_Price_for_Each_Store.sql) |
-| [1789. Primary Department for Each Employee] (https://leetcode.com/problems/primary-department-for-each-employee/description/
-) | Easy | (../master/Basics/1789_Primary_Department_for_Each_Employee.sql) |
-| [1939. Users That Actively Request Confirmation Messages] (https://leetcode.com/problems/users-that-actively-request-confirmation-messages/description/
-) | Easy | (../master/Basics/1939_Users_That_Actively_Request_Confirmation_Messages.sql) |
-| [1809. Ad-Free Sessions] (https://leetcode.com/problems/ad-free-sessions/description/
-) | Easy | (../master/Basics/1809_Ad_Free_Sessions.sql) |
-
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/) | Easy | [Soln.](../master/Basics/1068_Product_Sales_Analysis_I.sql) |
+| 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/description/) | Easy | [Soln.](../master/Basics/1069_Product_Sales_Analysis_II.sql) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/) | Easy | [Soln.](../master/Basics/577_Employee_Bonus.sql) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
+| 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/description/) | Easy | [Soln.](../master/Basics/512_Game_Play_Analysis_II.sql) |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/) | Easy | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) |
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | Easy | [Soln.](../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) |
+| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/description/) | Easy | [Soln.](../master/Basics/1076_Project_Employees_II.sql) |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/) | Easy | [Soln.](../master/Basics/1075_Project_Employees_I.sql) |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/) | Easy | [Soln.](../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | Easy | [Soln.](../master/Basics/196_Delete_Duplicate_Emails.sql) |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
+| 1083 | [Sales Analysis II](https://leetcode.com/problems/sales-analysis-ii/description/) | Easy | [Soln.](../master/Basics/1083_Sales_Analysis_II.sql) |
+| 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) | Easy | [Soln.](../master/Basics/1084_Sales_Analysis_III.sql) |
+| 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) | Easy | [Soln.](../master/Basics/610_Triangle_Judgement.sql) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | Easy | [Soln.](../master/Basics/181_Employees_Earning_More_Than_Their_Managers.sql) |
+| 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/description/) | Easy | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) |
+| 613 | [Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/description/) | Easy | [Soln.](../master/Basics/613_Shortest_Distance_in_a_Line.sql) |
+| 603 | [Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/description/) | Easy | [Soln.](../master/Basics/603_Consecutive_Available_Seats.sql) |
+| 607 | [Sales Person](https://leetcode.com/problems/sales-person/description/) | Easy | [Soln.](../master/Basics/607_Sales_Person.sql) |
+| 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) | Easy | [Soln.](../master/Basics/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) |
+| 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/) | Easy | [Soln.](../master/Basics/1173_Immediate_Food_Delivery_I.sql) |
+| 1142 | [User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/description/) | Easy | [Soln.](../master/Basics/1142_User_Activity_for_the_Past_30_Days_II.sql) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/) | Easy | [Soln.](../master/Basics/1211_Queries_Quality_and_Percentage.sql) |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/) | Easy | [Soln.](../master/Basics/1251_Average_Selling_Price.sql) |
+| 1294 | [Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/description/) | Easy | [Soln.](../master/Basics/1294_Weather_Type_in_Each_Country.sql) |
+| 1241 | [Number of Comments per Post](https://leetcode.com/problems/number-of-comments-per-post/description/) | Easy | [Soln.](../master/Basics/1241_Number_of_Comments_per_Post.sql) |
+| 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) | Easy | [Soln.](../master/Basics/1280_Students_and_Examinations.sql) |
+| 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/) | Easy | [Soln.](../master/Basics/1303_Find_the_Team_Size.sql) |
+| 1607 | [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/description/) | Easy | [Soln.](../master/Basics/1607_Sellers_With_No_Sales.sql) |
+| 1990 | [Count the Number of Experiments](https://leetcode.com/problems/count-the-number-of-experiments/description/) | Easy | [Soln.](../master/Basics/1990_Count_the_Number_of_Experiments.sql) |
+| 1795 | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/description/) | Easy | [Soln.](../master/Basics/1795_Rearrange_Products_Table.sql) |
+| 1873 | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/description/) | Easy | [Soln.](../master/Basics/1873_Calculate_Special_Bonus.sql) |
+| 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/) | Easy | [Soln.](../master/Basics/1179_Reformat_Department_Table.sql) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) | Easy | [Soln.](../master/Basics/1683_Invalid_Tweets.sql) |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/) | Easy | [Soln.](../master/Basics/1667_Fix_Names_in_a_Table.sql) |
+| 1435 | [Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/description/) | Easy | [Soln.](../master/Basics/1435_Create_a_Session_Bar_Chart.sql) |
+| 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/) | Easy | [Soln.](../master/Basics/1890_The_Latest_Login_in_2020.sql) |
+| 1623 | [All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/description/) | Easy | [Soln.](../master/Basics/1623_All_Valid_Triplets_That_Can_Represent_a_Country.sql) |
+| 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/) | Easy | [Soln.](../master/Basics/1661_Average_Time_of_Process_per_Machine.sql) |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/) | Easy | [Soln.](../master/Basics/1729_Find_Followers_Count.sql) |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/) | Easy | [Soln.](../master/Basics/1633_Percentage_of_Users_Attended_a_Contest.sql) |
+| 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/) | Easy | [Soln.](../master/Basics/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
+| 1853 | [Convert Date Format](https://leetcode.com/problems/convert-date-format/description/) | Easy | [Soln.](../master/Basics/1853_Convert_Date_Format.sql) |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/) | Easy | [Soln.](../master/Basics/1731_The_Number_of_Employees_Which_Report_to_Each_Employee.sql) |
+| 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/) | Easy | [Soln.](../master/Basics/1777_Products_Price_for_Each_Store.sql) |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/description/) | Easy | [Soln.](../master/Basics/1789_Primary_Department_for_Each_Employee.sql) |
+| 1939 | [Users That Actively Request Confirmation Messages](https://leetcode.com/problems/users-that-actively-request-confirmation-messages/description/) | Easy | [Soln.](../master/Basics/1939_Users_That_Actively_Request_Confirmation_Messages.sql) |
+| 1809 | [Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/description/) | Easy | [Soln.](../master/Basics/1809_Ad_Free_Sessions.sql) |
 
 
 ### Basics
