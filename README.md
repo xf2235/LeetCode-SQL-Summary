@@ -18,7 +18,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 ## Table of Content
 
   * [LeetCode SQL Questions by Topcis](#leetcode-sql-questions-by-topics)
-    + [Basics](#basics)
+    + [Basics Top Priority](#basics-top-priority)
     + [SQL Command](#sql-command)
     + [Join](#join)
     + [Subquery](#subquery)
@@ -42,6 +42,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | **#** | **Title** | **Difficulty** | **Topic** | **Key Syntax** | **Solution** |
 |---|---|---|---|---|---|
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/) | Easy | Basic query | `WHERE` + `AND` | *TBD* |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/description/) | Easy | Basic query | `WHERE` + `OR` (or `UNION`) | [Soln.](../master/Basics/595_Big_Countries.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/) | Easy | NULL trap | `WHERE` + `IS NULL` | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/description/) | Easy | Basic query | `DISTINCT` + `ORDER BY` | [Soln.](../master/Basics/1148_Article_Views_I.sql) |
 | 1821 | [Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/) 🔒 | Easy | Basic query | `WHERE` multi-condition | [Soln.](../master/Basics/1821_Find_Customers_With_Positive_Revenue_this_Year.sql) |
@@ -69,6 +70,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/) | Easy | Basic query | `WHERE` + `MOD` | [Soln.](../master/Basics/620_Not_Boring_Movies.sql) |
 | 1890 | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/description/) | Easy | Group & aggregate | `MAX` + `GROUP BY` + `YEAR()` | [Soln.](../master/Basics/1890_The_Latest_Login_in_2020.sql) |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) | Easy | Group & aggregate | `HAVING` + `MIN/MAX` dates | [Soln.](../master/Basics/1084_Sales_Analysis_III.sql) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | Easy | Group & aggregate | `GROUP BY` + `HAVING COUNT > 1` | [Soln.](../master/Basics/182_Duplicate_Emails.sql) |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/) | Easy | Group & aggregate | `GROUP BY` + `HAVING` | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) |
 | 1607 | [Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/description/) 🔒 | Easy | Join + NULL | `LEFT JOIN` — filter in `ON` vs `WHERE`! | [Soln.](../master/Basics/1607_Sellers_With_No_Sales.sql) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/) | Easy | Join + aggregate | `JOIN` + `AVG` + `ROUND` | [Soln.](../master/Basics/1075_Project_Employees_I.sql) |
 | 1173 | [Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-i/description/) 🔒 | Easy | Aggregate trick | `AVG(condition)` boolean trick | [Soln.](../master/Basics/1173_Immediate_Food_Delivery_I.sql) |
@@ -90,32 +93,10 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1777 | [Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/description/) 🔒 | Easy | Pivot | `CASE WHEN` pivot | [Soln.](../master/Basics/1777_Products_Price_for_Each_Store.sql) |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/) | Easy | Subquery | subquery + `HAVING COUNT = 1` | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) |
 | 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/description/) 🔒 | Easy | Subquery | `HAVING = (subquery MAX)` | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) |
+| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/description/) 🔒 | Easy | Subquery | `HAVING = (subquery MAX count)` | [Soln.](../master/Basics/1076_Project_Employees_II.sql) |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/) | Easy | Subquery | scalar subquery denominator | [Soln.](../master/Basics/1633_Percentage_of_Users_Attended_a_Contest.sql) |
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/description/) 🔒 | Easy | Subquery / window | self-join count or window | [Soln.](../master/Basics/1303_Find_the_Team_Size.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/) | Easy | DML | `DELETE` + self join | [Soln.](../master/Basics/196_Delete_Duplicate_Emails.sql) |
-
-### Basics
-
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Basics/182_Duplicate_Emails.sql) |
-| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
-| 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](../master/Basics/578_Get_Highest_Answer_Rate_Question.sql) | 
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](../master/Basics/584_Find_Customer_Referee.sql) | 
-| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](../master/Basics/586_Customer_Placing_the_Largest_Number_of_Orders.sql) | 
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](../master/Basics/595_Big_Countries.sql) |
-| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](../master/Basics/596_Classes_More_Than_5_Students.sql) | 
-| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](../master/Basics/619_Biggest_Single_Number.sql) | 
-| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](../master/Basics/620_Not_Boring_Movies.sql) | 
-| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
-| 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](../master/Basics/1069_Product_Sales_Analysis_II.sql) | 
-| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | Easy | [Soln.](../master/Basics/1076_Project_Employees_II.sql) | 
-| 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) | 
-| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
-| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) | 
-| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Basics/1149_Article_Views_II.sql) | 
-
-
 
 ### SQL Command
 
