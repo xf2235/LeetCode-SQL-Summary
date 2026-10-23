@@ -35,7 +35,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 ### Basics Top Priority 
 
 > Curated for interview frequency (LeetCode SQL 50 + classic DB questions), ordered to follow the SQL Basic course. 🔒 = LeetCode Premium.
-> **Tier 1** = must-do · **Tier 2** = consolidation · **Tier 3** = needs `CASE WHEN` / subqueries — do these after SQL Medium.
+> **Tier 1** = must-do · **Tier 2** = consolidation · **Bonus** = still Easy on LeetCode, but uses `CASE WHEN` / subqueries — syntax covered in the SQL Medium course.
 
 **Tier 1 · Must-do**
 
@@ -82,7 +82,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/) | Easy | Self join | start/end pairing + `AVG` | [Soln.](../master/Basics/1661_Average_Time_of_Process_per_Machine.sql) |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) | Easy | Join | `CROSS JOIN` + `LEFT JOIN` + `COUNT` | [Soln.](../master/Basics/1280_Students_and_Examinations.sql) |
 
-**Tier 3 · After SQL Medium**
+**Bonus · Easy difficulty, Medium-course syntax (`CASE WHEN` / subqueries)**
 
 | **#** | **Title** | **Difficulty** | **Topic** | **Key Syntax** | **Solution** |
 |---|---|---|---|---|---|
